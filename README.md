@@ -9,3 +9,6 @@
 <br>
 <h2 align="center"> Version for CellPhone</h3>
 <img src="https://github.com/TaylorReis-lab/Projeto-We-Care/blob/master/img/Captura%20de%20tela%202023-11-27%20204430.png" alt="version-for-cellphone">
+
+
+##Sincerely Taylor Reis
