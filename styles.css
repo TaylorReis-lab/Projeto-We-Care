@@ -93,6 +93,11 @@ p {
     opacity: 0.3;
 }
 
+.copy {
+    background: #ADFF00;
+    color: #ffff;
+}
+
 @media screen and (max-width: 900px) {
     header {
         margin: 0;
